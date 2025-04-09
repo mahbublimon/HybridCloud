@@ -1,0 +1,5 @@
+qiskit
+pennylane
+pqcrypto
+numpy
+scipy
